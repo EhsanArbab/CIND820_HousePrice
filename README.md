@@ -8,4 +8,5 @@
 7- Split the dataset to training and test dataframe.
 8- Random Forest Regression
 9- Linear Regression
-10- SVM – Support vector Machine
+10- K-fold cross validation
+11- Conclusion
